@@ -1,0 +1,44 @@
+.outsideDiv{
+    width: 100vw;
+    height:fit-content;
+    min-height: 67vh;
+    margin-left: 25px;
+}
+
+.ulCircle {
+    list-style-type:circle;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding: 5px;
+    margin: 0.5%;
+    
+  }
+
+  .ulCircle li {
+    float: left;
+    font-weight: 600;
+    list-style-type:circle;
+  }
+
+  /* Missing: 
+    - Big Bold Centered - Black 
+    - Big Bold Centered - White
+    - Regular Text 
+    - Small Text 
+
+    - Container for Blue Highlight 
+    - Container for White Highlight
+
+    - Donate Sticky Button
+    - Footer
+
+    - White Bulleted List 
+    - Black Bulleted List 
+    - 2 Columns
+
+    - Small Image PlaceHolder 
+    - Big Horizontal Image Placeholder 
+    - (optional) vertical placeholder
+  
+  */
