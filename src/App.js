@@ -17,9 +17,6 @@ import Youth from "./pages/youth.js";
 function App() {
   return (
     <>
-      <head>
-        <title>MCS</title>
-      </head>
       <Router>
         {/* Could Put navbar code in here to make it show up, but it doesnt apply when the router routes */}
 
