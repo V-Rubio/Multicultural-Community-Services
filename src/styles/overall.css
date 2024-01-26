@@ -27,7 +27,7 @@ body {
 
   /* Fixed to the Right Side of all Pages */
   .donateButton{
-    background-color: red;
+    background-color: #de0000;
     color: white;
     text-decoration: none;
     position: fixed;
@@ -39,6 +39,7 @@ body {
     height: fit-content;
     padding: 0.5rem;
     font-weight: 800;
+    font-size: 18pt;
 }
 
 /* Blocks For Background */
@@ -231,6 +232,7 @@ ul {
     height: fit-content;
     padding: 0.5rem;
     font-weight: 600;
+    font-size: 16pt;
 }
 }
 
