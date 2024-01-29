@@ -5,6 +5,11 @@ https://drive.google.com/file/d/1cHswjO5qJWWwgevaKDgfRkHgkBXd4ukM/view?usp=shari
 
 **This project is in process for a local nonprofit.**
 
+Next Iteration will focus on improvements on: 
+- Responsiveness
+- Accessibility of Font
+- Footer Section
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 **React Notes:**
 ### `npm test`
