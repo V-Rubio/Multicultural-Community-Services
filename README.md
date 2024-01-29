@@ -2,6 +2,11 @@
 https://drive.google.com/file/d/1cHswjO5qJWWwgevaKDgfRkHgkBXd4ukM/view?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------------------
+
+**This project is in process for a local nonprofit.**
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+**React Notes:**
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
