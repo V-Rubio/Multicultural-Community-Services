@@ -10,6 +10,12 @@ Next Iteration will focus on improvements on:
 - Accessibility of Font
 - Footer Section
 
+Following that iteration I will: 
+- Update Buttons
+- Create Contact Us Forms
+- Implement Figma design for mobile development
+- Utilize lazy loading 
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 **React Notes:**
 ### `npm test`
